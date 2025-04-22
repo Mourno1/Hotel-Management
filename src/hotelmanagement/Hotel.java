@@ -96,3 +96,4 @@ public class Hotel implements Bookable {
         }
     }
 }
+  
